@@ -11,14 +11,9 @@ I'm a Self taught Systems Engineer passionate about Automation & Scripting. I fo
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphac137&show_icons=true&hide_title=true&count_private=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ## Connect
 - [LinkedIn](https://za.linkedin.com/in/alpha-sydwell-lebeloane)
 - Website - Comming Soon!
-
-
-<!---
-AlphaC137/AlphaC137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
