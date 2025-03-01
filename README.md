@@ -1,5 +1,7 @@
 # Hi, I'm Alpha 👋
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alphac137&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 I'm a Self taught Systems Engineer passionate about Automation & Scripting. I focus on Python, and I'm always learning new tools to improve my work. Feel free to explore my repositories!
 
 ## About Me
