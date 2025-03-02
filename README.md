@@ -6,7 +6,7 @@ I'm a Self taught Systems Engineer passionate about Automation & Scripting. I fo
 - 🔭 Currently working on: AI Learning Platform
 - 🌱 Learning: TensorFlow
 - 💬 Ask me about: Python, Shell Scripting, Microsoft Azure, Git, Penetration Testing, Internet of Things (IoT), Web Development
-- 📫 How to reach me: Alphasydwell93@gmail.com
+- 📫 How to reach me: alphasydwell93@gmail.com
 - ⚡ Fun fact: I turn caffeine into code... and bugs into features
 
 
