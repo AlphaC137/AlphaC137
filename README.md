@@ -25,7 +25,7 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
   - 🔥 **Penetration Testing**, IoT Security  
   - 🌐 **Web Dev:** Flask, Node.js, React  
 - 📫 **Reach me at:** alphasydwell93@gmail.com  
-- 🎯 **Fun fact:** I debug in my sleep 💤 (no joke)  
+- 🎯 **Fun fact:**  I turn caffeine into code... and bugs into features
 
 ---
 
