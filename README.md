@@ -10,6 +10,14 @@
 
 ---
 
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,aws,docker,kubernetes,git,vscode,flask,nodejs,react" />
+</p>
+
+---
+
 ## 👾 About Me  
 
 🚀 **Tech Adventurer** | 🔥 **Security Enthusiast** | 🤖 **Automation Wizard**  
@@ -35,14 +43,6 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,aws,docker,kubernetes,git,vscode,flask,nodejs,react" />
 </p>
 
 ---
