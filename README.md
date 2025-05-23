@@ -42,15 +42,16 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
 <p align="center">
   <table>
     <tr>
-      <td>
+      <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
       </td>
-      <td>
+      <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
     </tr>
   </table>
 </p>
+
 
 
 ---
