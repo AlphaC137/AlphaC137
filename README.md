@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,html,aws,docker,kubernetes,git,django,flask,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,html,css,javascript,aws,docker,kubernetes,git,django,flask,nodejs,react" />
 </p>
 
 ---
