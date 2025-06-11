@@ -62,4 +62,5 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
 - 🌍 **Website** - *Coming Soon!*  
 - 🐦 **Twitter** - *Coming Soon!*  
 
-![Snake animation](https://github.com/Alphac137/Alphac137/blob/output/github-contribution-grid-snake.svg)
+![GitHub contribution snake](https://github.com/Alphac137/Alphac137/blob/output/github-snake.svg)
+
