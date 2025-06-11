@@ -12,7 +12,7 @@ jobs:
       - name: Generate the snake
         uses: Platane/snk@master
         with:
-          github_user_name: alphac137
+          github_user_name: Alphac137
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push the snake to GitHub Pages
