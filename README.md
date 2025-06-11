@@ -1,6 +1,6 @@
 # Hi there, Alpha here! 👨‍💻🚀  
 
-<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alphac137&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)-->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alphac137&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
@@ -61,3 +61,5 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
 - 💼 [LinkedIn](https://za.linkedin.com/in/alpha-sydwell-lebeloane)  
 - 🌍 **Website** - *Coming Soon!*  
 - 🐦 **Twitter** - *Coming Soon!*  
+
+![Snake animation](https://github.com/Alphac137/Alphac137/blob/output/github-contribution-grid-snake.svg)
