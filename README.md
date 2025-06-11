@@ -1,11 +1,13 @@
-# Hi there, Alpha here! 👨‍💻🚀  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi,+Alpha+here" alt="Typing SVG" />
+</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alphac137&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Self-Taught+Systems+Engineer;Automation+%26+Cybersecurity+Geek;Cloud+%7C+Python+%7C+PenTesting;Breaking+%7C+Building+%7C+Securing+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00ffee&center=true&vCenter=true&width=600&lines=Self-Taught+Systems+Engineer;Automation+%26+Cybersecurity+Geek;Cloud+%7C+Python+%7C+PenTesting;Breaking+%7C+Building+%7C+Securing+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,7 +24,7 @@
 
 🚀 **Tech Adventurer** | 🔥 **Security Enthusiast** | 🤖 **Automation Wizard**  
 
-I turn **complex problems** into **efficient solutions** using **Python**, **Shell scripting**, and **cloud technologies**. I thrive on **breaking, fixing, and optimizing** systems.  
+I turn **complex problems** into **efficient solutions**. I thrive on **breaking, fixing, and optimizing** systems.  
 
 ### ⚡ What I'm Up To:  
 - 🔭 **Currently working on:** AI Learning Platform  
@@ -33,6 +35,7 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
   - 🔥 **Penetration Testing**, IoT Security  
   - 🌐 **Web Dev:** Flask, Node.js, React  
 - 📫 **Reach me at:** alphasydwell93@gmail.com  
+- 🌍 **Website:** [sydwelllebeloane.vercel.app](https://sydwelllebeloane.vercel.app)  
 - 🎯 **Fun fact:**  I turn caffeine into code... and bugs into features
 
 ---
@@ -43,24 +46,31 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="460px" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=tokyonight&layout=compact&hide_border=false" width="380px" /> </p> <p align="center">
+      </td>
+    </tr>
+    <tr align="center">
+      <td align="center" valign="top">
+        <img src="https://streak-stats.demolab.com?user=alphac137&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
 </p>
 
+---
 
+## 📱 Scan to Connect  
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://sydwelllebeloane.vercel.app/&size=160x160" alt="QR Code to my website" />
+</p>
 
 ---
 
-## 🚀 Connect With Me  
-
-- 💼 [LinkedIn](https://za.linkedin.com/in/alpha-sydwell-lebeloane)  
-- 🌍 **Website** - *Coming Soon!*  
-- 🐦 **Twitter** - *Coming Soon!*  
+## 🐍 GitHub Snake  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alphac137/Alphac137/output/github-snake-dark.svg" />
@@ -68,5 +78,23 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Alphac137/Alphac137/output/github-snake.svg" />
 </picture>
 
+---
 
+## 🧾 Terminal Quote of the Day
 
+```bash
+$ date
+> 2025-06-11 23:04:02
+
+$ echo "Stay low, build slow. Greatness ain't rushed."
+> Stay low, build slow. Greatness ain't rushed.
+```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphac137&label=Profile%20visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
+<a href="https://za.linkedin.com/in/alpha-sydwell-lebeloane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alphasydwell93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://sydwelllebeloane.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-00C896?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+## 🎖️ GitHub Trophy Cabinet
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=alphac137&theme=tokyonight&no-bg=true&row=2&column=4" /> </p>
+
+<p align="center">💻 Powered by curiosity, caffeine, and command-line magic</p>
