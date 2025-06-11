@@ -62,5 +62,10 @@ I turn **complex problems** into **efficient solutions** using **Python**, **She
 - 🌍 **Website** - *Coming Soon!*  
 - 🐦 **Twitter** - *Coming Soon!*  
 
-![GitHub contribution snake](https://github.com/Alphac137/Alphac137/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alphac137/Alphac137/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alphac137/Alphac137/blob/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/Alphac137/Alphac137/blob/output/github-snake.svg" />
+</picture>
+
 
