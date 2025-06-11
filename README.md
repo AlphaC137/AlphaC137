@@ -61,6 +61,8 @@ I turn **complex problems** into **efficient solutions**. I thrive on **breaking
   </table>
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alphac137&theme=react-dark&area=true)
+
 ---
 
 ## 🐍 GitHub Snake  
