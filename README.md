@@ -47,15 +47,15 @@ I turn **complex problems** into **efficient solutions**. I thrive on **breaking
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="460px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&area=true" width="460px" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=tokyonight&layout=compact&hide_border=false" width="380px" /> </p> <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=tokyonight&layout=compact&hide_border=true&area=true" width="380px" />
       </td>
     </tr>
     <tr align="center">
       <td align="center" valign="top">
-        <img src="https://streak-stats.demolab.com?user=alphac137&theme=tokyonight&hide_border=true" />
+        <img src="https://streak-stats.demolab.com?user=alphac137&theme=tokyonight&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
