@@ -55,7 +55,7 @@ I turn **complex problems** into **efficient solutions**. I thrive on **breaking
     </tr>
     <tr align="center">
       <td align="center" valign="top">
-        <img src="https://streak-stats.demolab.com?user=alphac137&theme=tokyonight&hide_border=true&area=true" />
+        <img src="https://streak-stats.demolab.com?user=alphac137&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
