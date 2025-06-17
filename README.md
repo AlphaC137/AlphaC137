@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&pause=1000&color=00ffee&center=true&vCenter=true&width=600&lines=Hi,+Alpha+here!&repeat=false" alt="Typing SVG" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphac137&label=Profile%20visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
+<p align="center">Counting you too😉</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alphac137&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
@@ -75,7 +77,6 @@ I turn **complex problems** into **efficient solutions**. I thrive on **breaking
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphac137&label=Profile%20visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
 <a href="https://za.linkedin.com/in/alpha-sydwell-lebeloane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alphasydwell93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://sydwelllebeloane.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-00C896?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
