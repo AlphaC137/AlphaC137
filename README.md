@@ -23,23 +23,69 @@
 
 ---
 
-## 👾 About Me  
+<p align="center">
+  <img src="https://github.com/alphac137/alphac137/pictures/banner.png" alt="Alpha Banner" width="100%">
+</p>
 
-**Tech Adventurer** | **Security Enthusiast** | **Automation Lover**  
+---
 
-I turn **complex problems** into **efficient solutions**. I thrive on **breaking, fixing, and optimizing** systems.  
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="Code Animation">
+</p>
 
-### ⚡ What I'm Up To:  
-- 🔭 **Currently working on:** AI Learning Platform  
-- 🌱 **Learning:** TensorFlow, Kubernetes, Ethical Hacking  
-- 💬 **Ask me about:**  
-  - 🐍 **Python** | Bash | PowerShell  
-  - ☁️ **Cloud:** Azure, AWS  
-  - 🔥 **Penetration Testing**, IoT Security  
-  - 🌐 **Web Dev:** Flask, Node.js, React  
-- 📫 **Reach me at:** alphasydwell93@gmail.com  
-- 🌍 **Website:** [sydwelllebeloane.vercel.app](https://sydwelllebeloane.vercel.app)  
-- 🎯 **Fun fact:**  I turn caffeine into code... and bugs into features
+**`Tech Adventurer`** | **`Security Enthusiast`** | **`Automation Lover`**
+
+I’m a curious problem-solver who thrives at the crossroads of **technology, security, and automation**.  
+From building **AI-driven tools** to hunting down security flaws, I love exploring how systems work — and how they can be improved.  
+
+I’m not just about writing code; I’m about **crafting solutions and having fun**. Whether it’s streamlining workflows, strengthening digital defenses,  
+or deploying scalable cloud services, I bring the same energy: **efficient, reliable, and creative**.  
+
+My journey is fuelled by continuous learning, late-night experiments, and the drive to turn ideas into **working, real-world results**.  
+
+---
+
+<p align="center">
+  
+### ⚡ What I'm Up To
+
+| 🔭 **Currently** | 🌱 **Learning** | 💬 **Ask Me About** |
+|------------------|----------------|--------------------|
+| AI Learning Platform | TensorFlow, Kubernetes | 🐍 Python, Bash, PowerShell |
+| | | ☁️ Azure, AWS |
+| | | 🔥 Penetration Testing, IoT Security |
+| | | 🌐 Flask, Node.js, React |
+
+---
+
+### 📫 Reach Me  
+
+<p align="center">
+  <a href="mailto:alphasydwell93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Click%20Here-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://sydwelllebeloane.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://za.linkedin.com/in/alpha-sydwell-lebeloane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-green?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/SydwellLebeloa1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Fun Fact  
+
+> ☕ I turn caffeine into code… and bugs into features.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
+</p>
 
 ---
 
