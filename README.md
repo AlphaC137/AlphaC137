@@ -121,9 +121,6 @@ My journey is fuelled by continuous learning, late-night experiments, and the dr
 
 ---
 
-<a href="https://za.linkedin.com/in/alpha-sydwell-lebeloane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:alphasydwell93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://sydwelllebeloane.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-00C896?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
 ## 🎖️ GitHub Trophy Cabinet
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=alphac137&theme=tokyonight&no-bg=true&row=2&column=4" /> </p>
