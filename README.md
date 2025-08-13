@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=23&pause=800&color=00ffee&center=true&vCenter=true&width=600&lines=Self-Taught+Systems+Engineer;Automation+%26+Cybersecurity+Geek;Cloud+%7C+Python+%7C+PenTesting;Breaking+%7C+Building+%7C+Securing+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=23&pause=800&color=00ffee&center=true&vCenter=true&width=600&lines=Programmer+First;Self-Taught+Systems+Engineer;Automation+%26+Cybersecurity+Geek;Cloud+%7C+Python+%7C+PenTesting;Breaking+%7C+Building+%7C+Securing+Systems" alt="Typing SVG" />
 </p>
 
 ---
