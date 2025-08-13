@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/AlphaC137/AlphaC137/pictures/banner.png" alt="Alpha Banner" width="100%">
+  <img src="/pictures/banner.png" alt="Alpha Banner" width="100%">
 </p>
 
 ---
