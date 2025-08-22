@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&pause=1000&color=00ffee&center=true&vCenter=true&width=600&lines=Hi,+Alpha+here!&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi,+Alpha+here!&repeat=false" alt="Typing SVG" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphac137&label=Profile%20visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphac137&label=Profile%20visitors&color=FF0000&style=flat" alt="Visitor Counter" />
 <p align="center">Counting you too😉</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alphac137&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
@@ -10,12 +10,12 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=23&pause=800&color=00ffee&center=true&vCenter=true&width=600&lines=Programmer+First;Self-Taught+Systems+Engineer;Automation+%26+Cybersecurity+Geek;Cloud+%7C+Python+%7C+PenTesting;Breaking+%7C+Building+%7C+Securing+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=23&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Programmer+First;Self-Taught+Systems+Engineer;Automation+%26+Cybersecurity+Geek;Cloud+%7C+Python+%7C+PenTesting;Breaking+%7C+Building+%7C+Securing+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,html,css,javascript,typescript,aws,docker,kubernetes,git,django,flask,nodejs,react,postgresql,mysql,mongodb,firebase" />
