@@ -100,40 +100,33 @@ to transform wild ideas into **game-changing reality**.
   
 ##  **CURRENT QUESTS** 
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-** ACTIVE PROJECTS**
-<br>
- AI Learning Platform  
- Cloud Infrastructure  
- Automation Suite  
-
+<table style="background: rgba(255,0,0,0.1); border: 2px solid #FF0000;">
+<tr style="background: #FF0000; color: white;">
+<td align="center" width="33%" style="padding: 15px; border: 2px solid #990000;">
+ACTIVE PROJECTS
+<br><br>
+AI Learning Platform
+Cloud Infrastructure
+Automation Suite
 </td>
-<td align="center" width="33%">
-
-** MASTERING NOW**
-<br>
- TensorFlow Mastery  
- Kubernetes Wizardry  
- Advanced Security  
-
+<td align="center" width="33%" style="padding: 15px; border: 2px solid #990000;">
+MASTERING NOW
+<br><br>
+TensorFlow
+Kubernetes
+Advanced Security
 </td>
-<td align="center" width="33%">
-
-** ASK ME ABOUT**
-<br>
- **Python Sorcery**  
- **Cloud Domination**  
- **System Security**  
- **Full-Stack Magic**  
-
+<td align="center" width="33%" style="padding: 15px; border: 2px solid #990000;">
+ASK ME ABOUT
+<br><br>
+Scarlet Python Sorcery
+Crimson Cloud Domination
+System Security
+Full-Stack Magic
 </td>
 </tr>
 </table>
 
-</div>
 
 ---
 
@@ -180,28 +173,28 @@ to transform wild ideas into **game-changing reality**.
 
 <div align="center">
 POWER STATISTICS
-<table>
+<table style="background: rgba(0,0,0,0.3); border: 3px solid #FF0000; border-radius: 10px;">
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphac137&theme=radical" width="100%" />
+    <td colspan="2" align="center" style="padding: 10px; background: #FF0000; border-radius: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphac137&theme=radical&border_color=FF0000" width="100%" style="border: 2px solid #FF0000; border-radius: 10px;" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117" width="100%" />
+    <td align="center" valign="top" width="50%" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=alphac137&theme=radical&hide_border=false&border_color=FF0000&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FF0000&bg_color=000000" width="100%" style="border: 2px solid #FF0000; border-radius: 10px;" />
     </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=radical&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D1117" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=alphac137&theme=radical&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" width="100%" />
+    <td align="center" valign="top" width="50%" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphac137&theme=radical&layout=compact&hide_border=false&border_color=FF0000&title_color=FF0000&text_color=FF0000&bg_color=000000" width="100%" style="border: 2px solid #FF0000; border-radius: 10px;" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphac137&theme=redical&bg_color=0d1117&color=ff0000&line=ff0000&point=ff6b6b&area=true&hide_border=true" width="100%" />
+    <td colspan="2" align="center" style="padding: 10px;">
+      <img src="https://streak-stats.demolab.com?user=alphac137&theme=radical&hide_border=false&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FF0000&dates=FF0000" width="100%" style="border: 2px solid #FF0000; border-radius: 10px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding: 10px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphac137&theme=redical&bg_color=000000&color=FF0000&line=FF0000&point=FF3333&area=true&hide_border=false&custom_title=RED%20CONTRIBUTION%20GRAPH&title_color=FF0000&border_color=FF0000" width="100%" style="border: 3px solid #FF0000; border-radius: 10px;" />
     </td>
   </tr>
 </table>
