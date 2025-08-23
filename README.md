@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=800&height=80&lines=ALPHA+THE+ARCHITECT;WELCOME" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=FF0000&height=200&section=header&text=ALPHA&fontSize=70&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 </p>
