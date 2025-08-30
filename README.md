@@ -226,7 +226,7 @@ POWER STATISTICS
 
 ## **CURRENTLY VIBING TO**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj74cik6kmanli2f3k6z5csqki&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj74cik6kmanli2f3k6z5csqki&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj74cik6kmanli2f3k6z5csqki&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
