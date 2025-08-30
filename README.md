@@ -226,7 +226,7 @@ POWER STATISTICS
 
 ## **CURRENTLY VIBING TO**
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ff0000)](https://open.spotify.com/user/31aj74cik6kmanli2f3k6z5csqki)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj74cik6kmanli2f3k6z5csqki&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj74cik6kmanli2f3k6z5csqki&redirect=true)
 
 </div>
 
