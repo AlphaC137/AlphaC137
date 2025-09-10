@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=800&height=80&lines=ALPHA+THE+ARCHITECT;WELCOME" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=ALPHA+THE+ARCHITECT;WELCOME" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=600&color=FF0000&background=0D1117&center=true&vCenter=true&width=900&lines=TURNING+CAFFEINE+INTO+CODE+MAGIC;Self-Taught+Programming+Samurai;Automation+Overlord+%26+Cloud+Ninja;🛡️+Cybersecurity+Guardian;Full-Stack+Destroyer;Crafting+Digital+Masterpieces;Python+Wizard+%7C+Linux+Sensei+%7C+DevOps+Legend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=600&color=FF0000&center=true&vCenter=true&width=900&lines=TURNING+CAFFEINE+INTO+CODE+MAGIC;Self-Taught+Programming+Samurai;Automation+Overlord+%26+Cloud+Ninja;🛡️+Cybersecurity+Guardian;Full-Stack+Destroyer;Crafting+Digital+Masterpieces;Python+Wizard+%7C+Linux+Sensei+%7C+DevOps+Legend" alt="Typing SVG" />
 </p>
 
 ---
