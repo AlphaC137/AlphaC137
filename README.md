@@ -80,7 +80,9 @@
 <img src="https://img.shields.io/badge/_PASSION-AUTOMATION_MASTER-FF0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
 
 </div>
+
 <div align=center>
+  
 **` Digital Architect`** | **` Security Ninja`** | **` Automation Wizard`**
 
 I don't just write code — **I architect digital experiences that blow minds**.  
@@ -93,7 +95,9 @@ designing systems that scale to infinity — I bring **pure creative fire** to e
 
 Fueled by **endless curiosity**, late-night breakthroughs, and the unstoppable drive  
 to transform wild ideas into **game-changing reality**.  
+
 </div>
+
 ---
 
 <div align="center">
