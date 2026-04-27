@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/_PASSION-AUTOMATION_MASTER-FF0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
 
 </div>
-<p align="center">
+<p align=center>
 **` Digital Architect`** | **` Security Ninja`** | **` Automation Wizard`**
 
 I don't just write code — **I architect digital experiences that blow minds**.  
