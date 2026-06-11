@@ -218,16 +218,6 @@ POWER STATISTICS
 
 <div align="center">
 
-## **HALL OF ACHIEVEMENTS**
-
-<img src="https://github-profile-trophy.vercel.app/?username=alphac137&theme=radical&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
-
-</div>
-
----
-
-<div align="center">
-
 ## **CURRENTLY VIBING TO**
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj74cik6kmanli2f3k6z5csqki&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://open.spotify.com/user/31aj74cik6kmanli2f3k6z5csqki)
