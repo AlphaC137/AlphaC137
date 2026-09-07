@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=ALPHA+THE+ARCHITECT;WELCOME" alt="Typing SVG" />
 </p>
 
+![](https://res.cloudinary.com/dg5ijxsap/image/upload/v1780129216/gemini-svg_3_xsramr.svg)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=FF0000&height=200&section=header&text=ALPHA&fontSize=70&fontColor=FFFFFF&animation=twinkling" width="100%"/>
 </p>
