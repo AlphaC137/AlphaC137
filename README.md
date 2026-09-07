@@ -6,10 +6,6 @@
   <img src="./pictures/alpha-c137-banner.svg" alt="Alpha C137" width="680">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=FF0000&height=200&section=header&text=ALPHA&fontSize=70&fontColor=FFFFFF&animation=twinkling" width="100%"/>
-</p>
-
 <div align="center">
   <img src="https://img.shields.io/badge/🔥_STATUS-CODING_BEAST_MODE-FF0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-FF0000?style=for-the-badge&logoColor=white&labelColor=000000"/>
